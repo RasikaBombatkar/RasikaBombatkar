@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning how to use R
+# 🌱 I’m currently learning how to use R
 - 👯 I’m looking to collaborate on small projects to work on R
 - 🤔 I’m looking for help with learning R
 - 💬 Ask me about anything but not R
